@@ -1,0 +1,14 @@
+{
+  "name": "refreshable-require",
+  "version": "0.1.0",
+  "description": "A wrapper around require() that provides helper functions to manage the lifecycle of the require() cache",
+  "main": "index.js",
+  "author": "Rich Dillon <richraid21@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
