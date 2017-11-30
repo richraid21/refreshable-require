@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Rich Dillon <richraid21@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/richraid21/refreshable-require.git"
+  },
   "devDependencies": {
     "jest": "^21.2.1"
   },
